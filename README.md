@@ -10,4 +10,4 @@
 
 `module_4_final_project` - Page Objects. Итоговая работа
 
-[Шпоргалка](https://drive.google.com/file/d/1aR59-Dos9j8zsrxxG-vt6T_nA4aDYbvV/view?usp=sharing)
+[Шпаргалка](https://drive.google.com/file/d/1aR59-Dos9j8zsrxxG-vt6T_nA4aDYbvV/view?usp=sharing)
